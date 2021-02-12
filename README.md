@@ -2,7 +2,8 @@
 width="200px" style="border-radius:20px;"></img>
 
 # Vivek Vijayan
-### Code Blooded Man
+vivekvijayan3@icloud.com
+
 Hello 👋,
 
 About me? then I'm a self-learner, open for work, develop cool apps, MIDIbox player, Bike Lover 🏍, etc. 
