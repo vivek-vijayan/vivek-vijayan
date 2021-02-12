@@ -1,5 +1,4 @@
-<img src="https://scontent.fmaa1-4.fna.fbcdn.net/v/t1.0-9/143923309_2936283399937164_249465730115491023_o.jpg?_nc_cat=100&ccb=3&_nc_sid=09cbfe&_nc_ohc=BqcV_3BnEHMAX8sR1bZ&_nc_ht=scontent.fmaa1-4.fna&oh=a9032a090774601c9c2ffa0c8cc37ce5&oe=604E556E"
-width="200px" style="border-radius:20px;"></img>
+<img src="https://64.media.tumblr.com/14f296b2d81f9a2b9e191d82128de36d/tumblr_inline_pj8gz5hoXz1ro5idi_500.gif" style="border-radius:20px;"></img>
 
 # Vivek Vijayan
 vivekvijayan3@icloud.com
