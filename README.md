@@ -1,5 +1,3 @@
-<img src="https://64.media.tumblr.com/14f296b2d81f9a2b9e191d82128de36d/tumblr_inline_pj8gz5hoXz1ro5idi_500.gif" style="border-radius:20px;"></img>
-
 # Vivek Vijayan
 vivekvijayan3@icloud.com
 
