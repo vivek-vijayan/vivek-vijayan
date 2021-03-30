@@ -1,4 +1,4 @@
-# Vivek Vijayan
+# Vivek Vijayan 🔥
 vivekvijayan3@icloud.com
 
 Hello 👋,
@@ -14,3 +14,7 @@ Need more tech aspects of me? then I'm a
   * C++ 💻
   * Python 🐍 
   * Algorithms 🖖 
+  * PostgreSQL 🐘
+  * React Js :atom:
+  * Angular Js 🔺
+  * React Native 📱
