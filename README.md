@@ -1,5 +1,3 @@
-<img src="https://github.com/vivek-vijayan/vivek-vijayan/blob/main/github%20wall.png"/>
-
 # Vivek Vijayan 🔥
 vivekvijayan3@icloud.com
 
