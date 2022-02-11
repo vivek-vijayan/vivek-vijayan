@@ -52,7 +52,7 @@ Specialised in Web and software development
   
   </table>
 
-Full stack websites:
+<b> Full stack websites: </b>
 
 <table>
   <tr>
@@ -73,7 +73,7 @@ AVA Tuition Center Webapp
   </table>
 
 
-Scripts developed:
+<b> Scripts developed:</b>
 
 <table>
   <tr>
@@ -89,7 +89,7 @@ XML to CSV converter
   </tr>
   </table>
 
-Cloned Application:
+<b> Cloned Application: </b>
 
 <table>
   <tr>
