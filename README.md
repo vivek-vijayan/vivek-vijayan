@@ -25,7 +25,6 @@ Specialised in Web and software development
 
 <b> Website developed: </b>
 
-  Learn and Fun🤪
   <table>
   <tr>
     <td>
