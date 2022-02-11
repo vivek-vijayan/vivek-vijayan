@@ -52,6 +52,27 @@ Specialised in Web and software development
   
   </table>
 
+Full stack websites:
+
+<table>
+  <tr>
+    <td>
+AVA Tuition Center Webapp
+    </td>
+    <td>
+<a href="http://ava-tuition-server.herokuapp.com/">Download version 1.0</a>
+    </td>
+     <td>
+ <img src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=django&logoColor=white"/>
+               <img src="https://img.shields.io/badge/-Firebase-yellow?style=flat-square&logo=firebase&logoColor=white"/>
+               <img src="https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql&logoColor=white"/>
+                      <img src="https://img.shields.io/badge/-Heroku-violet?style=flat-square&logo=heroku&logoColor=white"/>
+    </td>
+  </tr>
+  </table>
+
+
 Scripts developed:
 
 <table>
