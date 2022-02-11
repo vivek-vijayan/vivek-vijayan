@@ -7,9 +7,9 @@ I'm working as a 👨🏻‍💻 Software developer, Follow me on <a href="https
 
 ![python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
 ![python](https://img.shields.io/badge/-C++-red?style=flat-square&logo=c&logoColor=white)
+![python](https://img.shields.io/badge/-Javscript-yellow?style=flat-square&logo=javascript&logoColor=white)
 ![python](https://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=django&logoColor=white)
 ![python](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
-![python](https://img.shields.io/badge/-Javscript-yellow?style=flat-square&logo=javascript&logoColor=white)
 ![python](https://img.shields.io/badge/-PostgreSQL-darkblue?style=flat-square&logo=postgresql&logoColor=white)
 ![python](https://img.shields.io/badge/-Git-darkorange?style=flat-square&logo=git&logoColor=white)
 ![python](https://img.shields.io/badge/-Firebase-yellow?style=flat-square&logo=firebase&logoColor=white)
