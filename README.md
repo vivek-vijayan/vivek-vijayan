@@ -56,7 +56,7 @@ Scripts developed:
 XML to CSV converter
     </td>
     <td>
-<a href="https://github.com/vivek-vijayan/XLSX2JSON/blob/master/xlsx_2_json.py">Download</a>
+<a href="https://github.com/vivek-vijayan/XLSX2JSON/releases/tag/v1.0">Download version 1.0</a>
     </td>
      <td>
  <img src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white"/>
