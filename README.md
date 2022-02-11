@@ -19,6 +19,29 @@ Specialised in Web and software development
 
 <img src="https://www.codewars.com/users/vivek-vijayan/badges/large" />
 
+<b> Website developed: </b>
+
+  Learn and Fun🤪
+  <table>
+  <tr>
+    <td>
+      Bubble Sort
+    </td>
+    <td>
+<a href="https://htmlpreview.github.io/?https://github.com/vivek-vijayan/visual-algorithm/main/BubbleSort/Bubblesort.html">View online</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Merge Sort
+    </td>
+    <td>
+<a href="https://htmlpreview.github.io/?https://github.com/vivek-vijayan/visual-algorithm/main/MergeSort/Mergesort.html">View online</a>
+    </td>
+  </tr>
+  
+  </table>
+
 Scripts developed:
 - <a href="https://github.com/vivek-vijayan/XLSX2JSON/blob/master/xlsx_2_json.py">XML to CSV converter</a>
 
