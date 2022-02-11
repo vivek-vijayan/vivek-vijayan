@@ -54,6 +54,4 @@ Cloned Application:
 ![Training](https://img.shields.io/badge/Python-2+years-brightgreen)
 ![Training](https://img.shields.io/badge/Javascript-2years-yellow)
 ![Training](https://img.shields.io/badge/IoT-3years-orange)
-@ava-tuition
 
-### Ongoing training
