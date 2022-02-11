@@ -30,6 +30,9 @@ Specialised in Web and software development
     <td>
 <a href="https://htmlpreview.github.io/?https://github.com/vivek-vijayan/visual-algorithm/main/BubbleSort/Bubblesort.html">View online</a>
     </td>
+    <td>
+ <img src="https://img.shields.io/badge/-Javscript-yellow?style=flat-square&logo=javascript&logoColor=white"/>
+    </td>
   </tr>
   <tr>
     <td>
@@ -38,16 +41,45 @@ Specialised in Web and software development
     <td>
 <a href="https://htmlpreview.github.io/?https://github.com/vivek-vijayan/visual-algorithm/main/MergeSort/Mergesort.html">View online</a>
     </td>
+     <td>
+ <img src="https://img.shields.io/badge/-Javscript-yellow?style=flat-square&logo=javascript&logoColor=white"/>
+    </td>
   </tr>
   
   </table>
 
 Scripts developed:
-- <a href="https://github.com/vivek-vijayan/XLSX2JSON/blob/master/xlsx_2_json.py">XML to CSV converter</a>
+
+<table>
+  <tr>
+    <td>
+XML to CSV converter
+    </td>
+    <td>
+<a href="https://github.com/vivek-vijayan/XLSX2JSON/blob/master/xlsx_2_json.py">Download</a>
+    </td>
+     <td>
+ <img src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white"/>
+    </td>
+  </tr>
+  </table>
 
 Cloned Application:
-- <a href="https://github.com/vivek-vijayan/instagramclone"> Instagram </a>
 
+<table>
+  <tr>
+    <td>
+Instagram Clone
+    </td>
+    <td>
+<a href="https://github.com/vivek-vijayan/instagramclone">Go to</a>
+    </td>
+     <td>
+ <img src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-Firebase-yellow?style=flat-square&logo=firebase&logoColor=white"/>
+    </td>
+  </tr>
+  </table>
 
 ## Trainer
 ![Training](https://img.shields.io/badge/C++-2+years-brightgreen)
