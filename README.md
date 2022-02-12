@@ -29,7 +29,7 @@ Specialised in Web and software development
       Bubble Sort
     </td>
     <td>
-<a href="https://htmlpreview.github.io/?https://github.com/vivek-vijayan/visual-algorithm/main/BubbleSort/Bubblesort.html">View online</a>
+<a href="https://bit.ly/3HOzvXY">View online</a>
     </td>
     <td>
  <img src="https://img.shields.io/badge/-Javscript-yellow?style=flat-square&logo=javascript&logoColor=white"/>
@@ -40,7 +40,7 @@ Specialised in Web and software development
       Merge Sort
     </td>
     <td>
-<a href="https://htmlpreview.github.io/?https://github.com/vivek-vijayan/visual-algorithm/main/MergeSort/Mergesort.html">View online</a>
+<a href="https://bit.ly/3rKvj5X">View online</a>
     </td>
      <td>
  <img src="https://img.shields.io/badge/-Javscript-yellow?style=flat-square&logo=javascript&logoColor=white"/>
