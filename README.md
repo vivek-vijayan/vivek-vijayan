@@ -14,7 +14,6 @@ I'm working as a 👨🏻‍💻 Software developer, Follow me on <a href="https
 ![python](https://img.shields.io/badge/-Git-darkorange?style=flat-square&logo=git&logoColor=white)
 ![python](https://img.shields.io/badge/-Firebase-yellow?style=flat-square&logo=firebase&logoColor=white)
 ![python](https://img.shields.io/badge/-Docker-45b8d8?style=flat-square&logo=docker&logoColor=white)
-![python](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white)
 
 
 <a href="mailto:vivekvijayan3@icloud.com"> Connect with me? </a>, ping me over email. 
