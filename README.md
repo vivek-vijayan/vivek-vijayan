@@ -54,7 +54,7 @@ Working as a freelancer on web full stack development, self-learning and develop
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/vivekvijayan"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/vivekvijayan10"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 ### Skilled
 
