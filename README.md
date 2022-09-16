@@ -3,6 +3,15 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Computer+Science+Engineer;Software+Developer;IoT+Expert&center=true&width=500&height=50"></a>
 </p>
 
+### 🌐 Connect with me
+<p align="center">
+	<a href="mailto:vijayanv31@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/vivek-vijayan"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://wa.me/8754513877"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://www.linkedin.com/in/vivekvijayan1010/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/vivekvijayan_10_10/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
+
 ## 👉 About me
 - 👨‍🦱 I'm a `Full stack web developer`, also an experienced `SAP Business Planning and Consolidation` profession
 - :trophy: `BYST CII Young Entrepreneur` award winner 2018
@@ -63,7 +72,7 @@
     <a href="#"><img src="https://img.shields.io/badge/MacOS-%2348B9C7.svg?style=plastic&&logo=macos&logoColor=white" /></a>	  
 </p>
 
-## Github Stats
+## 📊 Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vivek-vijayan&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-vijayan&theme=algolia" alt="7oSkaaa" />
 
@@ -71,18 +80,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivek-vijayan&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/vivek-vijayan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/vivekvijayan_10_10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vivekvijayan1010/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/vivekvijayan10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
-
-
-
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/vivekvijayan10"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
-
 
 ## Developer
 Specialised in Web and software development
@@ -171,7 +171,7 @@ Instagram Clone
   </tr>
   </table>
 
-## Trainer
+## Trainer experience
 ![Training](https://img.shields.io/badge/C++-2+years-brightgreen)
 ![Training](https://img.shields.io/badge/Python-2+years-brightgreen)
 ![Training](https://img.shields.io/badge/Javascript-2years-yellow)
