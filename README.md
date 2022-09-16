@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Computer+Science+Engineer;Software+Developer;IoT+Expert&center=true&width=500&height=50"></a>
 </p>
 
-### 🌐 Connect with me
+### Let's stay connected 😄
 <p align="center">
 	<a href="mailto:vijayanv31@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/vivek-vijayan"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
