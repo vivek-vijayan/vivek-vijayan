@@ -10,6 +10,7 @@
 	<a href="https://wa.me/8754513877"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 	<a href="https://www.linkedin.com/in/vivekvijayan1010/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/vivekvijayan_10_10/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	<a href="https://vivekvijayan10.medium.com"><img src="https://img.shields.io/badge/medium-%23181717.svg?style=plastic&logo=medium&logoColor=white" alt="Instagram"/></a>
 </p>
 
 ## 👉 About me
