@@ -14,7 +14,7 @@
 </p>
 
 ## 👉 About me
-- 👨‍🦱 I'm a `Full stack web developer`, also an experienced `SAP Business Planning and Consolidation` profession
+- 👨‍🦱 I'm a `Full stack web developer`, also an experienced `SAP Business Planning and Consolidation` professional
 - :trophy: `BYST CII Young Entrepreneur` award winner 2018
 - :trophy: `Top Web developer award` from Computer Society of India 2017 
 - :trophy: `Young Emerging professional` from Harvard University
