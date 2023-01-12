@@ -75,8 +75,6 @@
 
 ## 📊 Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vivek-vijayan&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-vijayan&theme=algolia" alt="7oSkaaa" />
-
 ## :trophy: Git profile Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivek-vijayan&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
