@@ -3,85 +3,27 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Computer+Science+Engineer;Software+Developer;IoT+Expert&center=true&width=500&height=50"></a>
 </p>
 
-### Let's stay connected 😄
-<p align="center">
-	<a href="mailto:vijayanv31@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/vivek-vijayan"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/8754513877"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/vivekvijayan1010/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/vivekvijayan_10_10/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-	<a href="https://vivekvijayan10.medium.com"><img src="https://img.shields.io/badge/medium-%23181717.svg?style=plastic&logo=medium&logoColor=white" alt="Instagram"/></a>
-</p>
-
-## 👉 About me
-- 👨‍🦱 I'm a `Full stack web developer`, also an experienced `SAP Business Planning and Consolidation` professional
-- :trophy: `BYST CII Young Entrepreneur` award winner 2018
-- :trophy: `Top Web developer award` from Computer Society of India 2017 
-- :trophy: `Young Emerging professional` from Harvard University
-- ⭐ Skills in IoT, Web, Desktop technologies
-- 💻 I am a competitive programmer helps other in getting their project work done. also trains freshers in learning any programming language at ease
-- 📓 I'm also a tech blogger at `Medium`  <a href="https://vivekvijayan10.medium.com/"> Vivek Vijayan </a> - Do follow me for technology related updates
-
-## ⭐ Skilled
-
-![python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
-![python](https://img.shields.io/badge/-C++-red?style=flat-square&logo=c&logoColor=white)
-![python](https://img.shields.io/badge/-Javscript-yellow?style=flat-square&logo=javascript&logoColor=white)
-![python](https://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=django&logoColor=white)
-![python](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
-![python](https://img.shields.io/badge/-PostgreSQL-darkblue?style=flat-square&logo=postgresql&logoColor=white)
-![python](https://img.shields.io/badge/-Git-darkorange?style=flat-square&logo=git&logoColor=white)
-![python](https://img.shields.io/badge/-Firebase-yellow?style=flat-square&logo=firebase&logoColor=white)
-![python](https://img.shields.io/badge/-Go-45b8d8?style=flat-square&logo=go&logoColor=white)
-![python](https://img.shields.io/badge/-SAP-darkblue?style=flat-square&logo=sap&logoColor=white)
-![python](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java8&logoColor=white)
-![python](https://img.shields.io/badge/-SpringBoot-red?style=flat-square&logo=springboot&logoColor=white)
-
-## 🥇 Badges earned
-
-#### AWS Business Migration Ambassador
-![migration-ambassador-foundations-business-2022](https://user-images.githubusercontent.com/53655378/190639189-ea259d3e-b63e-4955-bd64-673919b7d950.png)
-
-#### Harvard University Badges
-<img src="https://user-images.githubusercontent.com/53655378/190639998-410c0753-c612-4f8a-91e1-35cbd7d27de5.png" width=60 /> <img src="https://user-images.githubusercontent.com/53655378/190640569-dad3af62-96ef-49f2-b1ac-c44a2b7712c4.png" width=60 /> <img src="https://user-images.githubusercontent.com/53655378/190640581-995cd146-4f7a-4b28-a464-75331cd550e1.png" width=60 />
+# 💫 About Me:
+👨‍🦱 I'm a Full stack web developer, also an experienced SAP Business Planning and Consolidation professional<br>🏆 BYST CII Young Entrepreneur award winner 2018<br>🏆 Top Web developer award from Computer Society of India 2017<br>🏆 Young Emerging professional from Harvard University<br>⭐ Skills in IoT, Web, Desktop technologies<br>💻 I am a competitive programmer helps other in getting their project work done. also trains freshers in learning any programming language at ease<br>📓 I'm also a tech blogger at Medium Vivek Vijayan - Do follow me for technology related updates
 
 
- ## 👉 IDEs
- 
-<p align="left">
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vivekvijayan_10_10) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vivekvijayan10) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vivek_vijayan10) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@auxdynamix) 
 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vivek-vijayan&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vivek-vijayan&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-vijayan&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
- ## 👉 Operating Systems
- 
-<p align="left">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/MacOS-%2348B9C7.svg?style=plastic&&logo=macos&logoColor=white" /></a>	  
-</p>
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=vivek_vijayan10)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-## 📊 Github Stats
+---
+[![](https://visitcount.itsvg.in/api?id=vivek-vijayan&icon=1&color=3)](https://visitcount.itsvg.in)
 
-## :trophy: Git profile Trophies
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivek-vijayan&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/vivekvijayan10"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Developer
 Specialised in Web and software development
