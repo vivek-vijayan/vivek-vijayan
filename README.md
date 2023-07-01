@@ -4,8 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Computer+Science+Engineer;Software+Developer;IoT+Expert&center=true&width=500&height=50"></a>
 </p>
 
-
-# 💫 About Me:!
+# 💫 About Me:
 
 👨‍🦱 I'm a Full stack web developer, also an experienced SAP Business Planning and Consolidation professional<br>🏆 BYST CII Young Entrepreneur award winner 2018<br>🏆 Top Web developer award from Computer Society of India 2017<br>🏆 Young Emerging professional from Harvard University<br>⭐ Skills in IoT, Web, Desktop technologies<br>💻 I am a competitive programmer helps other in getting their project work done. also trains freshers in learning any programming language at ease<br>📓 I'm also a tech blogger at Medium Vivek Vijayan - Do follow me for technology related updates
 
