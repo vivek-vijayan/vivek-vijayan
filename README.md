@@ -1,10 +1,19 @@
 <h1 align="center">Hi , I'm Vivek Vijayan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Computer+Science+Engineer;Software+Developer;IoT+Expert&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Computer+Science+Engineer;Software+Developer;IoT+Expert&center=true&width=500&height=50"></a>
 </p>
 
-# 💫 About Me:
+
+# 💫 About Me:!
+
 👨‍🦱 I'm a Full stack web developer, also an experienced SAP Business Planning and Consolidation professional<br>🏆 BYST CII Young Entrepreneur award winner 2018<br>🏆 Top Web developer award from Computer Society of India 2017<br>🏆 Young Emerging professional from Harvard University<br>⭐ Skills in IoT, Web, Desktop technologies<br>💻 I am a competitive programmer helps other in getting their project work done. also trains freshers in learning any programming language at ease<br>📓 I'm also a tech blogger at Medium Vivek Vijayan - Do follow me for technology related updates
+
+# 🪪 Badges:
+<img src="https://github.com/vivek-vijayan/vivek-vijayan/assets/53655378/c8f72b75-12ac-498d-8fc9-5b3acf4793ee" width="100px">
+<img src="https://github.com/vivek-vijayan/vivek-vijayan/assets/53655378/bc6b42df-22ab-45b8-b654-17cc4c2c526e" width="100px">
+<img src="https://github.com/vivek-vijayan/vivek-vijayan/assets/53655378/c7320481-1041-41f3-9225-aa063a6dac87" width="100px">
+<img src="https://github.com/vivek-vijayan/vivek-vijayan/assets/53655378/c65a0dc3-a3d5-440a-93da-0fcde4bb50c3" width="100px">
 
 
 ## 🌐 Socials:
