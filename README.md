@@ -1,4 +1,4 @@
-## Hello, I'm [Your Name] 👋
+## Hello, I'm Vivek Vijayan 👋
 
 I'm a seasoned software developer with seven years of hands-on experience in Python, Java, and JavaScript. My passion for coding ignited during my college years, and since then, I've been on an exciting journey of continuous learning and growth in the world of programming.
 
