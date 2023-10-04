@@ -10,7 +10,7 @@
 <!-- Badges -->
 <p align="center">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/vivek-vijayan?style=social">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/vivekvijayan1010?style=social">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/vivek_vijayan10?style=social">
 </p>
 
 <!-- Introduction -->
@@ -22,9 +22,11 @@
 <h2 align="center">Skills</h2>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" width="50" height="50">
-  <img src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" alt="Django" width="50" height="50">
-  <img src="https://cdn-icons-png.flaticon.com/512/3291/3291669.png" alt="Web Development" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" width="30" height="30"> &nbsp;
+  <img src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" alt="Django" width="30" height="30"> &nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/3291/3291669.png" alt="Web Development" width="30" height="30"> &nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Database-postgres.svg/800px-Database-postgres.svg.png" alt="Web Development" width="30" height="35"> &nbsp;
+  
   <!-- Add more skills here -->
 </p>
 
