@@ -1,3 +1,5 @@
+<img src="https://media.licdn.com/dms/image/D5616AQGBDtFz5Z1C5g/profile-displaybackgroundimage-shrink_350_1400/0/1678484164935?e=1702512000&v=beta&t=FaYXwdGaPcJ9PrJfEIg7XvgG0MmJ_erg3XX2Qo1cMiY" />
+
 ## Hello, I'm Vivek Vijayan 👋
 
 I'm a senior software developer with seven years of hands-on experience in Python, Java, and JavaScript. My passion for coding ignited during my college years, and since then, I've been on an exciting journey of continuous learning and growth in the world of programming.
