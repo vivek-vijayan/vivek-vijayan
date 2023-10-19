@@ -1,4 +1,5 @@
-<img src="https://media.licdn.com/dms/image/D5616AQGBDtFz5Z1C5g/profile-displaybackgroundimage-shrink_350_1400/0/1678484164935?e=1702512000&v=beta&t=FaYXwdGaPcJ9PrJfEIg7XvgG0MmJ_erg3XX2Qo1cMiY" />
+
+![WV3swgh7K9X1_1500_500](https://github.com/vivek-vijayan/vivek-vijayan/assets/53655378/5bc24173-9a4e-4fce-aaa9-90a3b3ac66ab)
 
 ## Hello, I'm Vivek Vijayan 👋
 
