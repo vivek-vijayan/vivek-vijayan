@@ -1,6 +1,3 @@
-
-![WV3swgh7K9X1_1500_500](https://github.com/vivek-vijayan/vivek-vijayan/assets/53655378/5bc24173-9a4e-4fce-aaa9-90a3b3ac66ab)
-
 ## Hello, I'm Vivek Vijayan 👋
 
 I'm a senior software developer with seven years of hands-on experience in Python, Java, and JavaScript. My passion for coding ignited during my college years, and since then, I've been on an exciting journey of continuous learning and growth in the world of programming.
