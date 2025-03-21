@@ -2,6 +2,8 @@
 
 I'm a senior software developer with seven years of hands-on experience in Python, Java, and JavaScript. My passion for coding ignited during my college years, and since then, I've been on an exciting journey of continuous learning and growth in the world of programming.
 
+[![Contact me on Codementor](https://www.codementor.io/m-badges/vivekvijayan660668/book-session.svg)](https://www.codementor.io/@vivekvijayan660668?refer=badge)
+
 ### 💼 Professional Journey:
 
 Throughout my career, I've had the privilege of working on a diverse range of projects, each contributing to my expertise in the three cornerstone languages of software development:
